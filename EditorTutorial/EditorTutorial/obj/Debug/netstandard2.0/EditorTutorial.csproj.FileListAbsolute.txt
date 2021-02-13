@@ -1,0 +1,14 @@
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\EditorTutorial.deps.json
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\EditorTutorial.dll
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\ref\EditorTutorial.dll
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\EditorTutorial.pdb
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.csprojAssemblyReference.cache
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.AssemblyInfoInputs.cache
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.AssemblyInfo.cs
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.csproj.CoreCompileInputs.cache
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.dll
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\ref\EditorTutorial.dll
+C:\Xamarin\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.pdb
